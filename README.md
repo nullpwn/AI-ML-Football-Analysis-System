@@ -25,7 +25,7 @@ The following modules are used in this project:
 
 ## Sample Video
 
-- [Sample input video](https://github.com/nullpwn/AI-ML-Football-Analysis-System/blob/main/input_videos/)
+- [Sample input video](https://drive.google.com/file/d/1CSIgV4Gn8izurFa8lNLRM94XGYS8jJJV/view?usp=sharing)
 
 ## Requirements
 
