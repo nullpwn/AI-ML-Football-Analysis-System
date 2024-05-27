@@ -25,7 +25,7 @@ The following modules are used in this project:
 
 ## Sample Video
 
-- [Sample input video](https://drive.google.com/file/d/1CSIgV4Gn8izurFa8lNLRM94XGYS8jJJV/view?usp=sharing)
+- [Sample input video](https://drive.google.com/file/d/1xpB9azsAdY_xoGzSRgctp2Km7d7jE8ts/view?usp=sharing)
 
 ## Requirements
 
