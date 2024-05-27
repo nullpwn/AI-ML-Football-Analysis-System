@@ -6,7 +6,7 @@ The objective of this project is to detect and track players, referees, and foot
 
 Optical flow will be utilized to gauge camera movement between frames, allowing precise measurement of player movements. Furthermore, perspective transformation will be applied to depict the scene's depth and perspective, enabling us to measure player movement in meters rather than pixels. Ultimately, we will calculate the speed and distance covered by players.
 
-![Football Analysis](https://github.com/nullpwn/AI-ML-Football-Analysis-System/blob/main/screenshot.png)
+![Football Analysis](https://github.com/nullpwn/AI-ML-Football-Analysis-System/blob/main/output_videos/screenshot.png)
 
 
 ## Modules Used
