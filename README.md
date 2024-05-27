@@ -21,7 +21,7 @@ The following modules are used in this project:
 
 ## Trained Models
 
-- Trained Yolo v5
+- [Trained Yolo v5](https://drive.google.com/drive/folders/1xMlcsLhJWE_zlFGrHA15dbuxVw_xlOn-?usp=sharing)
 
 ## Sample Video
 
