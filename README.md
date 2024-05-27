@@ -40,3 +40,8 @@ To run this project, you need to have the following requirements installed:
 - NumPy
 - Matplotlib
 - Pandas
+
+
+## Output Video
+
+- [Sample input video](https://drive.google.com/file/d/1CSIgV4Gn8izurFa8lNLRM94XGYS8jJJV/view?usp=sharing)
